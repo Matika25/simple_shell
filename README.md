@@ -1,4 +1,4 @@
-Simple shell projec
+Simple shell project
 
 1. A code that passes the Betty checks
 2. UNIX command line interpreter
